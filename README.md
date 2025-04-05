@@ -1,2 +1,2 @@
-# protfolio_temp
+# portfolio_temp
 simple portfolio template
